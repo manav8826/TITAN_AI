@@ -2,6 +2,15 @@
 
 Welcome to **TITAN AI** – a powerful AI-driven system aimed at transforming [brief purpose or domain of project if known, e.g., "legal document analysis" or "health diagnostics"].
 
+
+## 📷 Screenshot
+
+![Model UI Demo](https://github.com/manav8826/TITAN_AI/blob/main/Screenshot%202025-06-22%20161603.png?raw=true)
+![Model UI Demo](https://github.com/manav8826/TITAN_AI/blob/main/Screenshot%202025-06-22%20161615.png?raw=true)
+
+
+
+
 ## 🚀 Features
 
 - ✅ [Feature 1 – e.g., Intelligent Document Processing]
