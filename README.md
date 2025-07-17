@@ -1,6 +1,6 @@
 # TITAN AI
 
-Welcome to **TITAN AI** – a powerful AI-driven system aimed at transforming [brief purpose or domain of project if known, e.g., "legal document analysis" or "health diagnostics"].
+Welcome to **TITAN AI** –
 
 
 ## 📷 Screenshot
